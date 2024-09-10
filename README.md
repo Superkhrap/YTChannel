@@ -43,7 +43,6 @@ Welcome to our successful Spanish storytelling YouTube channel! This README prov
 
 - 👨‍🎨 Current editor willing to continue
 - 📋 Detailed channel management blueprint provided
-- 🔑 AI tool accounts transferred (ElevenLabs, Leonardo.AI)
 
 ## 🗣️ Language Considerations
 
